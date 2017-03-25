@@ -10,6 +10,5 @@ Description:&emsp;
 A simple GUI invoice form to place orders and calculate total costs<br>
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![1_1](https://cloud.githubusercontent.com/assets/10789046/24318146/e0521db2-10bd-11e7-94c9-a4a53f0dd12f.jpg)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![1_1](https://cloud.githubusercontent.com/assets/10789046/24318146/e0521db2-10bd-11e7-94c9-a4a53f0dd12f.jpg)
 ![1_2](https://cloud.githubusercontent.com/assets/10789046/24318148/e23ac30e-10bd-11e7-8b09-4281f54d2f66.jpg)<br>
