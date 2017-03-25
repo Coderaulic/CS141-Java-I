@@ -1,0 +1,5 @@
+Number of games played = 1
+Number of games won = 1
+Number of games lost = 0
+Percentage of games won = 100.00%
+
