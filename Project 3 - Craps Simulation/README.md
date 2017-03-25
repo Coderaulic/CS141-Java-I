@@ -1,6 +1,6 @@
 # CS141 Project 3 - Craps Simulation
 ===============================================================================<br>
-Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
+Title:&emsp;&emsp;&emsp;&emsp;
 Edmonds Community College CS 141: Project 3 - Craps Simulation<br>
 Date:&emsp;&emsp;&emsp;&emsp;03/06/2013<br>
 Author:&emsp;&emsp;&emsp;Ryu Muthui<br>
