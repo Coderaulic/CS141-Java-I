@@ -1,15 +1,14 @@
-# CS218 Project 1 - Gini's Quilt Works
+# CS141 Project 3 - Craps Simulation
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 218: Project 1 - Gini's Quilt Works<br>
-Date:&emsp;&emsp;&emsp;&emsp;
-10/16/2013<br>
-Author:&emsp;&emsp;&emsp;
-Ryu Muthui<br>
-Description:&emsp;
-A simple GUI invoice form to place orders and calculate total costs<br>
+Edmonds Community College CS 141: Project 3 - Craps Simulation<br>
+Date:&emsp;&emsp;&emsp;&emsp;03/06/2013<br>
+Author:&emsp;&emsp;&emsp;Ryu Muthui<br>
+Description:&emsp;A GUI program that simulates the dice game of Craps<br>
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![1](https://cloud.githubusercontent.com/assets/10789046/24258501/3d887738-0fab-11e7-9746-b39b8145ec3e.jpg)<br>
+![3_1](https://cloud.githubusercontent.com/assets/10789046/24318262/8ba14430-10bf-11e7-90f6-d93b21635a50.jpg)<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![2](https://cloud.githubusercontent.com/assets/10789046/24258504/3f4b10a8-0fab-11e7-8f51-43166d302bb8.jpg)<br>
+![3_2](https://cloud.githubusercontent.com/assets/10789046/24318264/8ba38ac4-10bf-11e7-90e2-b4b86625c963.jpg)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![3_3](https://cloud.githubusercontent.com/assets/10789046/24318263/8ba2d2a0-10bf-11e7-8631-6feeed820341.jpg)<br>
