@@ -1,7 +1,7 @@
-# CS141 Project 2 - PSE Invoice
+# PSE Invoice
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;
-Edmonds Community College CS 141: Project 2 - PSE Invoice<br>
+PSE Invoice<br>
 Date:&emsp;&emsp;&emsp;&emsp;02/14/2013<br>
 Author:&emsp;&emsp;&emsp;Ryu Muthui<br>
 Description:&emsp;A GUI invoice order form to simulate a gas utility company<br>
