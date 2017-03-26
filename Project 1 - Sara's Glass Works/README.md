@@ -1,7 +1,7 @@
-# CS141 Project 1 - Sara's Glass Works
+# Sara's Glass Works
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 141: Project 1 - Sara's Glass Works<br>
+Sara's Glass Works<br>
 Date:&emsp;&emsp;&emsp;&emsp;
 01/23/2013<br>
 Author:&emsp;&emsp;&emsp;
