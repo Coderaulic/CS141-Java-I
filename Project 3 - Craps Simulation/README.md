@@ -1,7 +1,7 @@
-# CS141 Project 3 - Craps Simulation
+# Craps Simulation
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;
-Edmonds Community College CS 141: Project 3 - Craps Simulation<br>
+Craps Simulation<br>
 Date:&emsp;&emsp;&emsp;&emsp;03/06/2013<br>
 Author:&emsp;&emsp;&emsp;Ryu Muthui<br>
 Description:&emsp;A GUI program that simulates the dice game of Craps<br>
